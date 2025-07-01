@@ -1,13 +1,13 @@
 # Palmoria-Group-HR-Analysis_DSA
-Project Process: 
-1.	PLAN:
+## Project Process: 
+### 1.	PLAN:
 i)	Purpose: Using Power BI, Analyze the company’s HR data and come up with recommendations for management’s attention, to address and correct negative public perception about the company as regards Gender Equality.
 ii)	The tasks in the construct stage is part of our plan.
 
-2.	ANALYSE:
+### 2.	ANALYSE:
 i)	Do Exploratory Data Analysis to clean and prepare the data with the purpose of the project in mind.
 
-3.	CONSTRUCT:
+### 3.	CONSTRUCT:
 i)	Case Scenario: 
 •	Analyse the company data and generate insights that the Palmoria management team would need to address.
 •	Your analysis should be visualized using appropriate charts.
@@ -34,7 +34,7 @@ iv)	Bonus Case Question:
 •	Calculate the total amount to be paid to individual employees (salary inclusive of bonus).
 •	Total amount to be paid out per region and company-wide.
 
-5.	EXECUTE:
+### 5.	EXECUTE:
 i.  DashBoard Creation.
 Use the cleaned dataset and pivot outputs to build an Excel dashboard. 
 ii. Also use the Dashboard to develop a write up or presentation to explain and present your insights and finish with recommendations.
