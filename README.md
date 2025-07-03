@@ -1,11 +1,57 @@
 # Palmoria-Group-HR-Analysis_DSA
+## Project Overview:
+Paimoria Group has concerns about public perception of its gender diversity posture. The perception is negative. 
+Palmoria has therefore commissioned an exploratory analysis of its HR records in order to identify key problem areas, 
+and develop mitigants to correct the negative public perception.
+
+**Ancilliary Project:** As an ancilliary, Palmoria has also requested an impact assessment of the recently 
+approved bonus package.
+
 ## Project Process: 
 ### 1.	PLAN:
-i)	Purpose: Using Power BI, Analyze the company’s HR data and come up with recommendations for management’s attention, to address and correct negative public perception about the company as regards Gender Equality.
-ii)	The tasks in the construct stage is part of our plan.
+i)	**Tools**
+
+    a) Microsoft Power BI Desktop**: 
+      -For Data Extraction, Transformation and Loading (ETL).
+      -For DashBoard
+      
+ii)	**Data Source**:
+      -Company HR Data in .csv format. Provided by Palmoria.
+      -Company Bonus Rules & Mapping in Excel. Provided by Palmoria.
+
+iii) The Executive Summary/Recommendations to be presented in GitHub.
 
 ### 2.	ANALYSE:
-i)	Do Exploratory Data Analysis to clean and prepare the data with the purpose of the project in mind.
+i)	**Data Cleaning & Preparation**
+
+    a) Generally, there are two genders in the organization. Some employees refused to disclose their gender. 
+       Assign <Nonbinary> gender status to these employees.
+    b) Delete some employees that are without salary because they are no longer with the company. 
+    c) Delete some employees that are without department because they are no longer with the company. 
+    d) Promote Headers.
+    e) Check Datatypes and make corrections.
+    f) Format Data accordingly. Insert Currency signs and Percentage signs where necessary.
+
+ii) **Exploratory Data Analysis(EDA)**
+
+    a) Transform the Data in the light of the Project Plan to craete new colums or rows necessary for 
+       the analysis.
+    b) Concatenate Department column and Ratings column in Palmoria Group emp-data.csv file to create 
+       Department_Rating column.
+    c) Unpivot the Bonus Rules.xlxs file "on other columns".
+    d) Concatenate Department column and Ratings column in Bonus Rules.xlxs file to create Department_
+       Rating column in Bonus Rules file.
+    e) Join Bonus Rules table to Palmoria Group emp-data table on the Department_Rating column which is 
+       now common to both tables. 
+       This is to ensure that the correct Bonus_rate is assigned to each rating in corresponding departments.
+    f) Split the Department_Rating column back to their separate original columns.
+    g) With the created Bonus_Rate column, calculate a new column, "Bonus", which is Salary x Bonus_Rate. 
+    h) Calculate another column for "Total_pay", which is Salary + Bonus.
+    i) Make another colums for the "salary_Band", using the "Conditional Column" menu in the "Add Column" tab.
+    
+    
+    
+     to clean and prepare the data with the purpose of the project in mind.
 
 ### 3.	CONSTRUCT:
 i)	Case Scenario: 
@@ -14,10 +60,7 @@ i)	Case Scenario:
 •	Your focus should be on gender-related issues within the organization and its regions.
 •	The insights required are based on your discretion. However, Mr Gamma, as an insider, has offered to give you pointers on areas you need to pay attention to.
 ii)	Required:
-•	Generally, there are two genders in the organization. However, some employees
-refused to disclose their gender. You would need to assign a generic gender status to these employees
-•	Some employees are without a salary because they are no longer with the company. You will need to take those employees out.
-•	Lastly, some departments are indicated as “NULL”. These departments would also
+•
 need to be taken out.
 iii)	Pointers From Mr Gamma:
 1.	What is the gender distribution in the organization? Distil to regions and departments.
