@@ -66,6 +66,7 @@ iii)	Pointers From Mr Gamma:
        Regions:
        b) By Region: Kaduna 361. Abuja 335. Lagos 250.
        Kaduna: Male 182(50%). Female 165(46%). Nonbinary 14(4%).
+       https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Kaduna%20Distribution.png
        Abuja: Male 159(48%). Female 158(47%). Nonbinary 18(5%).
        https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Abuja%20Distribution.png
        Lagos: Male 124(50%). Female 118(47%). Nonbinary 8(3%).
