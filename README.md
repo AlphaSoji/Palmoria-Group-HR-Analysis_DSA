@@ -65,8 +65,10 @@ iii)	Pointers From Mr Gamma:
         https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/1.%20Gender%20Distribution%20in%20the%20organisation.png
        Regions:
        b) By Region: Kaduna 361. Abuja 335. Lagos 250.
-       
-       
+       Kaduna: Male 182(50%). Female 165(46%). Nonbinary 14(4%).
+       Abuja: Male 159(48%). Female 158(47%). Nonbinary 18(5%).
+       https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Abuja%20Distribution.png
+       Lagos: Male 124(50%). Female 118(47%). Nonbinary 8(3%).
    **2.	Show insights on ratings based on gender**
 
 
