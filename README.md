@@ -16,6 +16,7 @@ i)	**Tools**
       -For DashBoard
       
 ii)	**Data Source**:
+
       -Company HR Data in .csv format. Provided by Palmoria.
       -Company Bonus Rules & Mapping in Excel. Provided by Palmoria.
 
