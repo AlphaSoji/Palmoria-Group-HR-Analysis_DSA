@@ -61,7 +61,7 @@ iii)	Pointers From Mr Gamma:
 
    **1.	What is the gender distribution in the organization? Distil to regions and departments**
 
-
+        
    **2.	Show insights on ratings based on gender**
 
 
