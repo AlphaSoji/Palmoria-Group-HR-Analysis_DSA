@@ -61,7 +61,12 @@ iii)	Pointers From Mr Gamma:
 
    **1.	What is the gender distribution in the organization? Distil to regions and departments**
 
-        
+       a) Company Total: 946. Male 465(49%). Female 441(47%). Nonbinary 40(4%).
+        https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/1.%20Gender%20Distribution%20in%20the%20organisation.png
+       Regions:
+       b) By Region: Kaduna 361. Abuja 335. Lagos 250.
+       
+       
    **2.	Show insights on ratings based on gender**
 
 
