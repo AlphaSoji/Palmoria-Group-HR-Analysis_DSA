@@ -69,6 +69,8 @@ iii)	Pointers From Mr Gamma:
        Abuja: Male 159(48%). Female 158(47%). Nonbinary 18(5%).
        https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Abuja%20Distribution.png
        Lagos: Male 124(50%). Female 118(47%). Nonbinary 8(3%).
+        https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Lagos%20Distribution.png
+       
    **2.	Show insights on ratings based on gender**
 
 
