@@ -54,13 +54,6 @@ ii) **Exploratory Data Analysis(EDA)**
     
 ### 3.	CONSTRUCT:
 
-i)	Case Scenario: 
-•	Analyse the company data and generate insights that the Palmoria management team would need to address.
-•	Your analysis should be visualized using appropriate charts.
-•	Your focus should be on gender-related issues within the organization and its regions.
-•	The insights required are based on your discretion. However, Mr Gamma, as an insider, has offered to give you pointers on areas you need to pay attention to.
-iii)	Pointers From Mr Gamma:
-
    **1.	What is the gender distribution in the organization? Distil to regions and departments**
 
        a) Company Total: 946. Male 465(49%). Female 441(47%). Nonbinary 40(4%).
@@ -79,7 +72,6 @@ iii)	Pointers From Mr Gamma:
          alternated between Male and Female gender from department to department e.g. While Male had majority in Production and Legal departments; Female had majority in             Human Resources, Services and Research departments.
          https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Department%20Distribution.png
     
-       
    **2.	Show insights on ratings based on gender**
 
         44% - 420 people were rated Average. 19% - 180 rated Good. 14% - 131 rated Poor. 10% - 90 rated Very Good. 6% - 54 People rated Very Poor. 8% - 71 were Unrated.
