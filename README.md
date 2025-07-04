@@ -75,7 +75,7 @@ iii)	Pointers From Mr Gamma:
      c) By Department:
          Accross all the deparment, the same proportional deistribution of gender was maintained. Departmental majority was 
          alternated between Male and Female gender from department to department e.g. While Male had majority in Production and Legal departments; Female had majority in             Human Resources, Services and Research departments.
-         
+         https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Department%20Distribution.png
     
        
    **2.	Show insights on ratings based on gender**
