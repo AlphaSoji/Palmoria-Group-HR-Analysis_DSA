@@ -93,14 +93,14 @@ ii) **Exploratory Data Analysis(EDA)**
        - Lagos.
        https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Lagos%20compared%20to%20minimum%20wage..png
         
-   **Pay distribution of employees grouped by a band of $10,000. For example: How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc.? 
-     Also visualize this by regions.**
+   **Pay distribution of employees grouped by a band of $10,000. For example: How many employees fall into a band of $10,000 – $20,000, 
+       $20,000 – $30,000, etc.?**
 
-***iv)	Bonus Case Question:***
+***iv)	Bonus Assignments:***
     **5.Allocating the annual bonus pay to employees based on the performance rating.** 
    
-    a) Calculate the amount to be paid as a bonus to individual employees.
-    b) Calculate the total amount to be paid to individual employees (salary inclusive of bonus).
+    a) Amount to be paid as a bonus to individual employees.
+    b) Total amount to be paid to individual employees (salary inclusive of bonus).
     c) Total amount to be paid out per region and company-wide.
 
    **There are SLICERS and CARDS in the DASHBOARD that clearly show all the above**
