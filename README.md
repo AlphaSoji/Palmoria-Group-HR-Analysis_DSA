@@ -49,6 +49,8 @@ ii) **Exploratory Data Analysis(EDA)**
     g) With the created Bonus_Rate column, calculate a new column, "Bonus", which is Salary x Bonus_Rate. 
     h) Calculate another column for "Total_pay", which is Salary + Bonus.
     i) Make another colums for the "salary_Band", using the "Conditional Column" menu in the "Add Column" tab.
+    Here is the Transformed Dataset
+        https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Transformed%20DATASET.xlsx
     
 ### 3.	CONSTRUCT:
 
