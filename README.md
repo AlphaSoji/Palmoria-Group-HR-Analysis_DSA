@@ -87,9 +87,11 @@ ii) **Exploratory Data Analysis(EDA)**
    **Does Palmoria meet this requirement?**
 
    No. Palmoria does not meet the $90,000 minimum wage requirement. The average salary accross board is $73,700. Which less than $90,000. Only the Accounts department in      Lagos have an average salary of $93,500 (Slightly above the minimum wage).
+       
        - Overall.
        https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Overall%20compared%20to%20minimum%20wage..png
        - Lagos.
+       https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Lagos%20compared%20to%20minimum%20wage..png
         
    **Show the pay distribution of employees grouped by a band of $10,000. For example: How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc.? 
      Also visualize this by regions.**
