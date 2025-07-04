@@ -82,13 +82,22 @@ iii)	Pointers From Mr Gamma:
        
    **2.	Show insights on ratings based on gender**
 
+        44% - 420 people were rated Average. 19% - 180 rated Good. 14% - 131 rated Poor. 10% - 90 rated Very Good. 6% - 54 People rated Very Poor. 8% - 71 were Unrated.
+        This same partern of ratings holds true accross the board for all the genders. 
 
    **3.	Analyze the company’s salary structure. Identify if there is a gender pay gap. 
         If there is, identify the department and regions that should be the focus of management.**
+
+        There is no Gender pay gap in the company. The aggregated salary for Male was $34.8million and Female $31.8million. This could easily be explained by head count            difference between the 2 genders( Male: 465. Female: 441). The same applies to the Nonbinary staff: Just 4% of total. Nonbinary salary is also about 4% of total.
         
    **4.	A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000.**
 
    **Does Palmoria meet this requirement?**
+
+   No. Palmoria does not meet the $90,000 minimum wage requirement. The average salary accross board is $73,700. Which less than $90,000. Only the Accounts department in      Lagos have an average salary of $93,500 (Slightly above the minimum wage).
+       - Overall.
+       
+       - Lagos.
     
    **Show the pay distribution of employees grouped by a band of $10,000. For example: How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc.? 
      Also visualize this by regions.**
