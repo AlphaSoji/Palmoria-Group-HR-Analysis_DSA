@@ -107,5 +107,10 @@ ii) **Exploratory Data Analysis(EDA)**
 
 ### 5.	EXECUTE:
 **i.  DashBoard** 
+https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Palmoria%20HR%20DashBoard.png
+
+**Transformed Dataset**
+
+**Summary and recommendations**
 
 ii. Also use the Dashboard to develop a write up or presentation to explain and present your insights and finish with recommendations.
