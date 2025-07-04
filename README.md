@@ -98,6 +98,7 @@ ii) **Exploratory Data Analysis(EDA)**
 
 ***iv)	Bonus Case Question:***
     **5.Allocating the annual bonus pay to employees based on the performance rating.** 
+   
     a) Calculate the amount to be paid as a bonus to individual employees.
     b) Calculate the total amount to be paid to individual employees (salary inclusive of bonus).
     c) Total amount to be paid out per region and company-wide.
