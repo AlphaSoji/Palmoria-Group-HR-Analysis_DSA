@@ -63,7 +63,7 @@ iii)	Pointers From Mr Gamma:
 
        a) Company Total: 946. Male 465(49%). Female 441(47%). Nonbinary 40(4%).
         https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/1.%20Gender%20Distribution%20in%20the%20organisation.png
-       Regions:
+       
        b) By Region: Kaduna 361. Abuja 335. Lagos 250.
        Kaduna: Male 182(50%). Female 165(46%). Nonbinary 14(4%).
        https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Kaduna%20Distribution.png
@@ -71,6 +71,12 @@ iii)	Pointers From Mr Gamma:
        https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Abuja%20Distribution.png
        Lagos: Male 124(50%). Female 118(47%). Nonbinary 8(3%).
         https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Lagos%20Distribution.png
+
+     c) By Department:
+         Accross all the deparment, the same proportional deistribution of gender was maintained. Departmental majority was 
+         alternated between Male and Female gender from department to department e.g. While Male had majority in Production and Legal departments; Female had majority in             Human Resources, Services and Research departments.
+         
+    
        
    **2.	Show insights on ratings based on gender**
 
