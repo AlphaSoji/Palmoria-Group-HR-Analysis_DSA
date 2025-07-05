@@ -11,14 +11,14 @@ approved bonus package.
 ### 1.	PLAN:
 i)	**Tools**
 
-    a) Microsoft Power BI Desktop**: 
-      -For Data Extraction, Transformation and Loading (ETL).
-      -For DashBoard
+a) Microsoft Power BI Desktop**: 
+- For Data Extraction, Transformation and Loading (ETL).
+- For DashBoard
       
 ii)	**Data Source**:
 
-      -Company HR Data in .csv format. Provided by Palmoria.
-      -Company Bonus Rules & Mapping in Excel. Provided by Palmoria.
+- Company HR Data in .csv format. Provided by Palmoria.
+- Company Bonus Rules & Mapping in Excel. Provided by Palmoria.
 
 iii) The Executive Summary/Recommendations to be presented in GitHub.
 
@@ -27,29 +27,44 @@ i)	**Data Cleaning & Preparation**
 
 a) Generally, there are two genders in the organization. Some employees refused to disclose their gender. 
     Assign <Nonbinary> gender status to these employees.
+    
 b) Delete some employees that are without salary because they are no longer with the company. 
+
 c) Delete some employees that are without department because they are no longer with the company. 
+
 d) Promote Headers.
+
 e) Check Datatypes and make corrections.
+
 f) Format Data accordingly. Insert Currency signs and Percentage signs where necessary.
 
 ii) **Exploratory Data Analysis(EDA)**
 
 a) Transform the Data in the light of the Project Plan to craete new colums or rows necessary for 
     the analysis.
+    
 b) Concatenate Department column and Ratings column in Palmoria Group emp-data.csv file to create 
        Department_Rating column.
+       
 c) Unpivot the Bonus Rules.xlxs file "on other columns".
+
 d) Concatenate Department column and Ratings column in Bonus Rules.xlxs file to create Department_
     Rating column in Bonus Rules file.
+    
 e) Join Bonus Rules table to Palmoria Group emp-data table on the Department_Rating column which is 
     now common to both tables. 
+    
     This is to ensure that the correct Bonus_rate is assigned to each rating in corresponding departments.
+    
 f) Split the Department_Rating column back to their separate original columns.
+
 g) With the created Bonus_Rate column, calculate a new column, "Bonus", which is Salary x Bonus_Rate. 
+
 h) Calculate another column for "Total_pay", which is Salary + Bonus.
+
 i) Make another colums for the "salary_Band", using the "Conditional Column" menu in the "Add Column" tab.
   Here is the Transformed Dataset
+  
     https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Transformed%20DATASET.xlsx
     
 ### 3.	CONSTRUCT:
@@ -100,7 +115,9 @@ i) Make another colums for the "salary_Band", using the "Conditional Column" men
     **5.Allocating the annual bonus pay to employees based on the performance rating.** 
    
     a) Amount to be paid as a bonus to individual employees.
+    
     b) Total amount to be paid to individual employees (salary inclusive of bonus).
+    
     c) Total amount to be paid out per region and company-wide.
 
    **There are SLICERS and CARDS in the DASHBOARD that clearly show all the above**
