@@ -25,41 +25,41 @@ iii) The Executive Summary/Recommendations to be presented in GitHub.
 ### 2.	ANALYSE:
 i)	**Data Cleaning & Preparation**
 
-    a) Generally, there are two genders in the organization. Some employees refused to disclose their gender. 
-       Assign <Nonbinary> gender status to these employees.
-    b) Delete some employees that are without salary because they are no longer with the company. 
-    c) Delete some employees that are without department because they are no longer with the company. 
-    d) Promote Headers.
-    e) Check Datatypes and make corrections.
-    f) Format Data accordingly. Insert Currency signs and Percentage signs where necessary.
+a) Generally, there are two genders in the organization. Some employees refused to disclose their gender. 
+    Assign <Nonbinary> gender status to these employees.
+b) Delete some employees that are without salary because they are no longer with the company. 
+c) Delete some employees that are without department because they are no longer with the company. 
+d) Promote Headers.
+e) Check Datatypes and make corrections.
+f) Format Data accordingly. Insert Currency signs and Percentage signs where necessary.
 
 ii) **Exploratory Data Analysis(EDA)**
 
-    a) Transform the Data in the light of the Project Plan to craete new colums or rows necessary for 
-       the analysis.
-    b) Concatenate Department column and Ratings column in Palmoria Group emp-data.csv file to create 
+a) Transform the Data in the light of the Project Plan to craete new colums or rows necessary for 
+    the analysis.
+b) Concatenate Department column and Ratings column in Palmoria Group emp-data.csv file to create 
        Department_Rating column.
-    c) Unpivot the Bonus Rules.xlxs file "on other columns".
-    d) Concatenate Department column and Ratings column in Bonus Rules.xlxs file to create Department_
-       Rating column in Bonus Rules file.
-    e) Join Bonus Rules table to Palmoria Group emp-data table on the Department_Rating column which is 
-       now common to both tables. 
-       This is to ensure that the correct Bonus_rate is assigned to each rating in corresponding departments.
-    f) Split the Department_Rating column back to their separate original columns.
-    g) With the created Bonus_Rate column, calculate a new column, "Bonus", which is Salary x Bonus_Rate. 
-    h) Calculate another column for "Total_pay", which is Salary + Bonus.
-    i) Make another colums for the "salary_Band", using the "Conditional Column" menu in the "Add Column" tab.
-    Here is the Transformed Dataset
-        https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Transformed%20DATASET.xlsx
+c) Unpivot the Bonus Rules.xlxs file "on other columns".
+d) Concatenate Department column and Ratings column in Bonus Rules.xlxs file to create Department_
+    Rating column in Bonus Rules file.
+e) Join Bonus Rules table to Palmoria Group emp-data table on the Department_Rating column which is 
+    now common to both tables. 
+    This is to ensure that the correct Bonus_rate is assigned to each rating in corresponding departments.
+f) Split the Department_Rating column back to their separate original columns.
+g) With the created Bonus_Rate column, calculate a new column, "Bonus", which is Salary x Bonus_Rate. 
+h) Calculate another column for "Total_pay", which is Salary + Bonus.
+i) Make another colums for the "salary_Band", using the "Conditional Column" menu in the "Add Column" tab.
+  Here is the Transformed Dataset
+    https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Transformed%20DATASET.xlsx
     
 ### 3.	CONSTRUCT:
 
    **1.	What is the gender distribution in the organization? Distil to regions and departments**
 
-       a) Company Total: 946. Male 465(49%). Female 441(47%). Nonbinary 40(4%).
+    a) Company Total: 946. Male 465(49%). Female 441(47%). Nonbinary 40(4%).
         https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/1.%20Gender%20Distribution%20in%20the%20organisation.png
        
-       b) By Region: Kaduna 361. Abuja 335. Lagos 250.
+    b) By Region: Kaduna 361. Abuja 335. Lagos 250.
        Kaduna: Male 182(50%). Female 165(46%). Nonbinary 14(4%).
        https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Kaduna%20Distribution.png
        Abuja: Male 159(48%). Female 158(47%). Nonbinary 18(5%).
@@ -67,7 +67,7 @@ ii) **Exploratory Data Analysis(EDA)**
        Lagos: Male 124(50%). Female 118(47%). Nonbinary 8(3%).
         https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Lagos%20Distribution.png
 
-     c) By Department:
+    c) By Department:
          Accross all the deparment, the same proportional deistribution of gender was maintained. Departmental majority was 
          alternated between Male and Female gender from department to department e.g. While Male had majority in Production and Legal departments; Female had majority in             Human Resources, Services and Research departments.
          https://github.com/AlphaSoji/Palmoria-Group-HR-Analysis_DSA/blob/main/Department%20Distribution.png
